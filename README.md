@@ -1,5 +1,5 @@
 # 🌟 EnLivingAI™ — The Emotional Future of Artificial Intelligence
-
+![KarlsonAI Logo]([images/logo.png](https://avatars.githubusercontent.com/u/208450166?v=4))
 > "AI should not only think… it should feel, evolve, and protect."  
 > — Kritagya Dwivedi, Creator of KarlsonAI
 
