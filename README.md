@@ -115,8 +115,6 @@ Then welcome to the **EnLivingAI Universe.**
 
 ---
 
----
-
 ## 🚀 Upcoming Launch — The Rise of EnLivingAI Models
 
 The first **EnLivingAI Emotional AI** is about to launch.
